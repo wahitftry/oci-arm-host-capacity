@@ -1,5 +1,4 @@
-name: Tests Konektivitas
-
+name: Tess Konektivitas
 on:
   push:
     branches:
